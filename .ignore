@@ -1,0 +1,13 @@
+/.vscode
+/Content
+/DerivedDataCache
+/Intermediate
+/Saved
+/Plugins/Odyssey/.git
+/Plugins/Odyssey/.github
+/Plugins/Odyssey/.venv
+/Plugins/Odyssey/Content
+/Plugins/Odyssey/Documentation
+/Plugins/Odyssey/Intermediate
+/Plugins/Odyssey/Shaders
+/Plugins/Odyssey/Templates
