@@ -16,3 +16,6 @@ Config
 *.xcworkspace
 *.DS_Store
 *.gitattributes
+/Content/Brushes/
+/Content/Maps/Demo*
+/Content/Maps/Promo*
